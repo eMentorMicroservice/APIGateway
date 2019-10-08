@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace eMentorCenterServices.Controllers
+namespace eMenterGateway.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
